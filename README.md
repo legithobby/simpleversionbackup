@@ -12,7 +12,7 @@ Two files are needed. A SaveVersion.bat file which shall be copied to users Send
 the selected file or directory.
 
 Users SendTo directory is for e.g.
- C:\Users\Matti\AppData\Roaming\Microsoft\Windows\SendTo\
+C:\Users\Matti\AppData\Roaming\Microsoft\Windows\SendTo\
 
 MakeBackup.ps1 you can save where you want. In SaveVersion.bat file you have to edit line
 set "bindir=E:\data\bin"
