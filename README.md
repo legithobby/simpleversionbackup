@@ -11,7 +11,7 @@ In Win10 you can add items into File Explorer context menu and I added my versio
 Two files are needed. A SaveVersion.bat file which shall be copied to users SendTo directory. SaveVersion.bat will call powershell script MakeBackup.ps1 which will do time stamped copy of
 the selected file or directory.
 
-Users SendTo directory is for e.g.
+Users SendTo directory is for e.g.<br/>
 C:\Users\Matti\AppData\Roaming\Microsoft\Windows\SendTo\
 
 MakeBackup.ps1 you can save where you want. In SaveVersion.bat file you have to edit line
