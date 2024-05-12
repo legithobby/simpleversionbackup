@@ -2,7 +2,12 @@
 
 Saving versions of files can be made easier with a powershell script which makes a timestamped copy of a file or directory. After making a timestamped version you can continue editing
 the same file. For example you are editing file main.rs and you want to make intermediate version backup. Right click main.rs and select send to SaveVersion.bat and you will have new file
-main-20240410-135017.rs in the same directory. Time stamp is in format yyyyMMdd-HHmmss.
+main-20240410-135017.rs in the same directory. Some time later you can make another timestamped version. Then you will have three versions of main.rs.
+main.rs<br/>
+main-20240410-135017.rs<br/>
+main-20240410-152138.rs<br/>
+
+Time stamp is in format yyyyMMdd-HHmmss.
 
 ![Usage example](docs/contextmenuaddversion.gif)
 
