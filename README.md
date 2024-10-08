@@ -22,3 +22,8 @@ C:\Users\Matti\AppData\Roaming\Microsoft\Windows\SendTo\
 MakeBackup.ps1 you can save where you want. In SaveVersion.bat file you have to edit line
 set "bindir=E:\data\bin"
 to point to directory where you saved MakeBackup.ps1.
+
+## License
+
+This project is licensed under the GNU General Public License version 3.0 (GPL 3.0). See the [LICENSE](LICENSE) file for details.
+
